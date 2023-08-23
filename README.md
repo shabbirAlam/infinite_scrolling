@@ -1,5 +1,5 @@
-# infinite_scrolling
-Infinite scrolling collectionView
+# infinite scrolling iOS swift
+Infinite scrolling using collectionView in iOS Swift
 
 full code is in 'ScrollViewController.swift' file
 
