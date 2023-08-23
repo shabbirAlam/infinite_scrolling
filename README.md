@@ -3,6 +3,10 @@ Infinite scrolling using collectionView in iOS Swift
 
 full code is in 'ScrollViewController.swift' file
 
+
+https://github.com/shabbirAlam/infinite_scrolling/assets/67838198/9201d54c-70f9-46f3-bd31-60993530eeae
+
+
 ## Uses
 
 1. Declare one buffer variable if you want the original array at later point of time.
