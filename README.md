@@ -7,7 +7,7 @@ full code is in 'ScrollViewController.swift' file
 
 1. Declare one buffer variable if you want the original array at later point of time.
 ```swift
-private var list: [String] = ["One", "Two", "Three"]
+private var list: [String] = ["One", "Two", "Three"] // To work properly, it should have more than 2 items.
 private var bufferList: [String] = [] // temporary variable
 private var lastContentOffset: CGFloat = 0
 ```
